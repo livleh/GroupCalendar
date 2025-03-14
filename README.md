@@ -5,7 +5,7 @@
 </p>
 
 # Group Calendar, Group 12
-#### Adam Dada, Rafael Fernandes, Rahul Kaundal, Oliver Lehmann, Matthias Lott, Moritz Mani
+#### Adam Dada, Rafael Fernandes, Rahul Kaundal, Livia Lehmann, Matthias Lott, Moritz Mani
 
 ## Project description
 
