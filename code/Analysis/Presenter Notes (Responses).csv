@@ -1,0 +1,48 @@
+Timestamp,ID,Time,Scroll,Errors,Bugs,Notes,Time,Scroll,Errors,Bugs,Notes,Notes
+11/29/2023 0:08:58,2,36.263,1538,0,,because the information is less readable (the user finds the information distracting) he can focus on the titles and therefore finds the event faster. Maybe make the user pick a picture or symbol as an easy identifier to quickly find a template.,49.89,7380,0,,,"Did not notice a difference between the two templates..., Keyword- and alphabetical sorting are definately necessary when we have many templates, No alphabetical sorting, should not throw you back to template screen but to landing page, whole edit screen should fit on one page, green checkmark is not intuitive because it is on the top. The control flow goes from top to bottom, but at the end you have to go all the way to the top again, icons on template screen are confusing at first because user thinks that he can edit these values. Is this even necessary information to display?"
+11/29/2023 0:39:34,3,34.815,1800,0,,Must search titles in a zigzag pattern which is not nice for the brain,29.359,43,0,,List is better because text is more readable and 'calmer' because the flow goes neatly from top to bottom,"The color should be displayed in the template screen to check which color is set, There should be pictures to uniquely identify events, Sorting has to be implemented"
+11/29/2023 12:33:13,0,57.254,1869,0,,,83.601,4088,0,,,"Didn't realise they could scroll the NewEntry screen at first. 
+Didn't realise that All Day - All Day was for selecting time if All Day was not set.
+Open Events are not clear because ""Open Events"" can be interpreted as ""Open a New Event"".
+Liked Variant A more because it gave a better overview.
+The overall system is not bad, but having many templates definitely requires sorting/filtering."
+11/29/2023 16:59:05,10,58.143,386,0,,,44.327,0,0,Lag when selecting template not registering tap,,"Problems: Tried to edit directly in the template overview, Symbols in NewEvent look like buttons, color not given in template overview (very confusing), confused edit template with use template
+
+Debriefing: They found it easy to use, but were confused because the checkmark seemed that changes are already registered (does not look like confirm). They found it fast, but wished for a clearer differentiation between edit and use."
+11/29/2023 17:45:17,11,35.495,781,0,,,57.118,1269,0,Due to lag not registering tap ,,"Problems: Empty template is too plain or it is not apparent to represent a new event (took some time finding a way to create a new event), time selection is not registering when not pressing on ok in NewEntry, the refreshing of template overview is confusing, symbols look like buttons, no indication of what changed after editing a template
+
+Debriefing: They like the Idea of templates, but were confused with empty template. They wish for a way to check the work after editing a template."
+11/29/2023 19:13:17,7,23.67,446,0,0,"opened options, didnt even consider plus button, uppon seing the template screen immediately said likes it better",35.921,1788,0,0,-,"during exploring found a template modal that didnt close
+
+
+liked blocks better
+
+more color options
+
+was looking for tick on bottom instead on top
+
+
+if 2 and 1 was switchted they would maybe click the plus."
+11/29/2023 20:51:43,6,35.208,1450,0,0,0,22.796,2609,0,0,0,"thought color was already green
+didnt scroll down at first
+where is llunch with friends
+improve color green on outside
+wasnt sure if ""this saturday or next saturday""
+likes grid better one better
+
+
+dont like scrolling so first one better
+idea of template is good.
+time she spent scrolling could also have written
+more colorful, likes colors
+likes it would use it, better than apple one"
+11/29/2023 22:01:12,1,40.77,2255,0,,,55.192,943,0,,,"Didn't understand that the checkmark stands for save, would prefer a floppy disk icon
+Wasn't sure if editing a template would already create an event
+Was a bit confused and couldn't find the template screen at the start, but picked it up quickly after that
+Criticised the speed of the app"
+11/29/2023 23:45:02,4,35.801,2596,0,,"If the ""All day"" toggle was selected, then the start- and the end time picker button where still there with the title ""All day"". User's opinion is that it should be removed if the ""All day"" toggle is active, since it has no purpose and it is confusing.",42.129,909,0,,"The user likes the grid view more than the list view, because it can see more data in one glance and the target template is faster to find.",
+11/29/2023 23:52:54,5,25.112,3672,0,,,29.249,3901,0,,,"- Preferes grid view over list view, because the user can find the desired template faster.
+- The user would rather use the ""+"" button rather than open the drawer and select template.
+- The user would like to use ""Save"" button rather than a tick to save the template (that is, because the user is a IPhone user and there is a ""Done"" button). "
+11/30/2023 14:20:11,8,42.5,334,0,Had to restart once because the zoo template was not displaying,,48.7,1637,0,No bugs,,Somehow it was more intuitive for this tester to access the preset templates via the navbar. The plus button was not used. This might be due to the fact that the tester does not use a digital calendar like google calendar and hence is not too familiar with the plus button flow.
+11/30/2023 14:28:05,9,65,254,1,,,55.3,832,0,,,The tester was a bit confused after both subtasks concerning whether the changes were actually applied to the template or the new event was actually created. The tester would have liked a visual confirmation as to the success of his actions. I guess a snackbar or success screen would have done the job.

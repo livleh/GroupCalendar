@@ -1,0 +1,48 @@
+In this file we'll define all the necessary data tables and objects that the calendar app uses:
+
+
+Tables: 
+
+- users (holds obects of type user)
+- participatesIn (holds tuples of type (String, String))
+- friendsWith (holds tuples of type (String,String))
+
+
+Objects:
+
+user : {
+    userId: String
+    userName: String
+}a
+
+event: {
+    id: String
+    isTemplate: Number (0 for false and 1 for True)
+    title: String
+    date: {
+        flag: Bool (signals if field is required or not for open events)
+        data: Integer (Unix Time of specified date at 00:00)
+    }
+    time: {
+        flag: Bool
+        data: {
+            allDay: Bool
+            startTime: Integer (Number of seconds from 00:00 until start time)
+            endTime: Integer (Number of seconds from 00:00 until end time)
+        }
+    }
+    location: {
+        flag: Bool
+        data: String
+    }
+    participants: {
+        flag: Bool
+        data: Array<String>
+    }
+    colorTag: String (hex color code)
+    note: {
+        flag: Bool
+        data: String
+    }
+}
+
